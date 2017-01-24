@@ -1,4 +1,4 @@
-# VPortal Report Template generator
+# VPSE AdHoc Librairy generator
 
 XML Report Template generator
 
