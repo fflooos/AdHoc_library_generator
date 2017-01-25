@@ -1,4 +1,4 @@
-# VPSE AdHoc Librairy generator
+# VPSE AdHoc Library generator
 
 XML Report Template generator
 
